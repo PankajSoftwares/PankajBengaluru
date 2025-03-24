@@ -1,5 +1,5 @@
 
-![logo](https://github.com/PankajBengaluru/PankajSoftwares/blob/74f9e6e35b6294acd819a7951d0a7edaef6aa8ff/Linkedin%20Background%20pic%20Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpankajbengaluru.netlify.app%2F&psig=AOvVaw21zy7s5PMHMRjAzjew7NPs&ust=1742904482476000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi-w6fXoowDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi👋, My name is <strong>Mr. Pankaj Kumar</strong></h1>
 <h3 align="center"> I am a passionate full Stack Java developer from Bengaluru (Bangalore), INDIA </h3>
 
