@@ -1,5 +1,5 @@
 ![logo](https://github.com/PankajBengaluru/PankajBengaluru/blob/74f9e6e35b6294acd819a7951d0a7edaef6aa8ff/Linkedin%20Background%20pic%20Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner.png)
-<h1 align="center">Hi👋, My name is <strong>Mr. Pankaj Kumar</strong></h1>
+<h1 align="center">Hi👋, My name is <strong>Pankaj Kumar</strong></h1>
 <h3 align="center"> I am a passionate full Stack Web developer from Bengaluru (Bangalore), INDIA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PankajSoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="PankajSoftwares" /> </p>
