@@ -1,14 +1,14 @@
 ![logo](https://github.com/PankajBengaluru/PankajBengaluru/blob/74f9e6e35b6294acd819a7951d0a7edaef6aa8ff/Linkedin%20Background%20pic%20Black%20White%20Minimalist%20The%20Best%20Success%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi👋, My name is <strong>Mr. Pankaj Kumar</strong></h1>
-<h3 align="center"> I am a passionate full Stack Java developer from Bengaluru (Bangalore), INDIA </h3>
+<h3 align="center"> I am a passionate full Stack Web developer from Bengaluru (Bangalore), INDIA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PankajSoftwares&label=Profile%20views&color=0e75b6&style=flat" alt="PankajSoftwares" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PankajSoftwares" alt="PankajSoftwares" /></a> </p>
 
-- 🔭 I’m currently working on **"Shoppie" which is Fulll Stack Java Developement Project using Spring Boot**
+- 🔭 I’m currently working on **"AI Jobs Search & freelancing Project" which is a Full Stack Developement Project using Angular, Laravel frameworks**
 
-- 🌱 I’m currently learning **Frameworks like Spring Boot, React.JS**
+- 🌱 I’m currently learning **Frameworks like Angular, Laravel, Spring Boot &React.JS**
 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/PankajSoftwares)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly learns articles on [Trending Technology]
 
-- 💬 Ask me about **Java Full Stack Development**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **pksnmit@gmail.com**
 
